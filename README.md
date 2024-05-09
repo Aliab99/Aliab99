@@ -88,20 +88,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aliab99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+![Anurag's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=aliab99&show=reviews,discussions_started,prs_merged_percentage)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aliab99&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aliab99/aliab99/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+![snake](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ###
