@@ -12,15 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f43f5e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-<br clear="both">
-
-<h1 align="center">💪 PROFILE <br>___________</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">Hey !!!!!!!!!!<br><br>- 🧔 my name is Ali<br>- 🎓I got my master's in Mechatronics from AUT<br>- 🔭 I’m working as fullstack Next & Nest developer<br>- 📚 I'm currently learning about penetration testing<br>- ⚡ In my free time I study about Robotics & Control eng & AI</p>
 
@@ -87,13 +79,25 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aliab99&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-![Anurag's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=aliab99&show=reviews,discussions_started,prs_merged_percentage)
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aliab99&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-###
-
+### 
 <br clear="both">
-
-![snake](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=light"/>
+  
+</div>
+
+
+  
+###
+
+
