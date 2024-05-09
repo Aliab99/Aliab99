@@ -92,12 +92,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=light"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=aliab99&show_icons=true&theme=light"/>
 </div>
 
-
-  
 ###
 
 
